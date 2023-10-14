@@ -1,3 +1,8 @@
 Pritesh is our professor for the COMP3104.
-Effective version control contributes to improved DevOps efficiency.
+Effective version control contributes to improved DevOps efficiency.Git is a widely used tool in the realm of DevOps.
+
+
+
+
+
 
